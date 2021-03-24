@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ---
 
@@ -8,7 +8,7 @@ I'm CEO & Co-Founder at [Link Society](https://link-society.com), with a long ex
 
 ---
 
-### :zap: Technology
+## :zap: Technology
 
  - **Development:**<br/>
    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -53,7 +53,7 @@ I'm CEO & Co-Founder at [Link Society](https://link-society.com), with a long ex
 
 ---
 
-### :alembic: I'm currently working on
+## :alembic: I'm currently working on
 
  - [Kubevisor](https://kubevisor.io) - Dockerized Supervision on Kubernetes
  - [Datapio](https://datapio.co) - CI/CD platform and PaaS ecosystem for Kubernetes
