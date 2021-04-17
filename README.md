@@ -55,6 +55,6 @@ I'm CEO & Co-Founder at [Link Society](https://link-society.com), with a long ex
 
 ## :alembic: I'm currently working on
 
- - [Kubevisor](https://kubevisor.io) - Dockerized Supervision on Kubernetes
+ - [Kubirds](https://kubirds.com) - Fully automated Cloud-native supervision #onthefly
  - [Datapio](https://datapio.co) - CI/CD platform and PaaS ecosystem for Kubernetes
  - [Letlang](https://letlang.dev) - Pure functional programming language
